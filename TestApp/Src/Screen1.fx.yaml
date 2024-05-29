@@ -6,6 +6,7 @@ Screen1 As screen:
 
     TextCanvas1 As Text:
         DisplayMode: =DisplayMode.Edit
+        FontColor: =
         Height: =32
         Text: ="Main Branch"
         Width: =96
