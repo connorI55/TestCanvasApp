@@ -1,0 +1,91 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Host": 3,
+    "Screen1": 4
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "05/29/2024 17:32:42",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "Accounts": 38,
+    "Accounts\\account_accountcategorycode": 13,
+    "Accounts\\account_accountclassificationcode": 14,
+    "Accounts\\account_accountratingcode": 15,
+    "Accounts\\account_address1_addresstypecode": 16,
+    "Accounts\\account_address1_freighttermscode": 17,
+    "Accounts\\account_address1_shippingmethodcode": 18,
+    "Accounts\\account_address2_addresstypecode": 19,
+    "Accounts\\account_address2_freighttermscode": 20,
+    "Accounts\\account_address2_shippingmethodcode": 21,
+    "Accounts\\account_businesstypecode": 22,
+    "Accounts\\account_creditonhold": 0,
+    "Accounts\\account_customersizecode": 24,
+    "Accounts\\account_customertypecode": 25,
+    "Accounts\\account_donotbulkemail": 1,
+    "Accounts\\account_donotbulkpostalmail": 2,
+    "Accounts\\account_donotemail": 3,
+    "Accounts\\account_donotfax": 4,
+    "Accounts\\account_donotphone": 5,
+    "Accounts\\account_donotpostalmail": 6,
+    "Accounts\\account_donotsendmm": 7,
+    "Accounts\\account_followemail": 8,
+    "Accounts\\account_industrycode": 26,
+    "Accounts\\account_isprivate": 9,
+    "Accounts\\account_marketingonly": 10,
+    "Accounts\\account_merged": 11,
+    "Accounts\\account_ownershipcode": 27,
+    "Accounts\\account_participatesinworkflow": 12,
+    "Accounts\\account_paymenttermscode": 28,
+    "Accounts\\account_preferredappointmentdaycode": 29,
+    "Accounts\\account_preferredappointmenttimecode": 30,
+    "Accounts\\account_preferredcontactmethodcode": 31,
+    "Accounts\\account_shippingmethodcode": 32,
+    "Accounts\\account_statecode": 34,
+    "Accounts\\account_statuscode": 35,
+    "Accounts\\account_territorycode": 33,
+    "Accounts\\cr7ac_accountstatus": 23,
+    "Accounts\\default.cds_account_views": 37,
+    "Accounts\\me_trades": 36,
+    "ComboBoxSample": 40,
+    "CustomGallerySample": 39
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Host": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Host": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.053969,
+    "ControlCount": {
+      "screen": 1
+    },
+    "DeserializationLoadTime": 4.2779008
+  },
+  "WasLocalDatabaseReferencesEmpty": false
+}

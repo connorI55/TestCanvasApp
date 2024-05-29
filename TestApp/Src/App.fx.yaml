@@ -1,0 +1,34 @@
+App As appinfo:
+    BackEnabled: =true
+    Formulas: |-
+        =Employees = 
+            Table(
+                {ID: 1, Name: "Alice", Department: "Finance"},
+                {ID: 2, Name: "Bob", Department: "HR"},
+                {ID: 3, Name: "Charlie", Department: "IT"},
+                {ID: 4, Name: "David", Department: "Marketing"},
+                {ID: 5, Name: "Eva", Department: "Finance"},
+                {ID: 6, Name: "Frank", Department: "HR"},
+                {ID: 7, Name: "Grace", Department: "IT"},
+                {ID: 8, Name: "Helen", Department: "Marketing"},
+                {ID: 9, Name: "Ian", Department: "Finance"},
+                {ID: 10, Name: "Judy", Department: "HR"}
+            );
+        Projects=
+            Table(
+                { ID: 101, Name: "Frank", Age: 29, Project: "Project A" },
+                { ID: 102, Name: "Grace", Age: 40, Project: "Project B" },
+                { ID: 103, Name: "Heidi", Age: 35, Project: "Project C" },
+                { ID: 104, Name: "Ivan", Age: 50, Project: "Project D" },
+                { ID: 105, Name: "Judy", Age: 27, Project: "Project E" }
+            );
+    StartScreen: =Screen1
+    Theme: =PowerAppsTheme
+
+    Host As hostControl.DefaultHostControlVariant:
+        OnCancel: =false
+        OnEdit: =false
+        OnNew: =false
+        OnSave: =false
+        OnView: =false
+
