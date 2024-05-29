@@ -5,11 +5,24 @@ Screen1 As screen:
         =UpdateContext({view: "Employees"})
 
     TextCanvas1 As Text:
+        Align: ='TextCanvas.Align'.Center
         DisplayMode: =DisplayMode.Edit
+        FontColor: =
         Height: =32
         Text: ="Main Branch"
         Width: =96
-        X: =252
-        Y: =60
+        X: =268
+        Y: =56
         ZIndex: =1
+
+    TextCanvas1_1 As Text:
+        Align: ='TextCanvas.Align'.Center
+        DisplayMode: =DisplayMode.Edit
+        FontColor: =
+        Height: =32
+        Text: ="New Feature"
+        Width: =96
+        X: =268
+        Y: =208
+        ZIndex: =2
 
