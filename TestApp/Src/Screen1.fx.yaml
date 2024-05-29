@@ -4,3 +4,12 @@ Screen1 As screen:
     OnVisible: |-
         =UpdateContext({view: "Employees"})
 
+    TextCanvas1 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Text: ="Main Branch"
+        Width: =96
+        X: =252
+        Y: =60
+        ZIndex: =1
+
