@@ -14,3 +14,13 @@ Screen1 As screen:
         Y: =60
         ZIndex: =1
 
+    TextCanvas1_1 As Text:
+        DisplayMode: =DisplayMode.Edit
+        FontColor: =
+        Height: =32
+        Text: ="Second Feature"
+        Width: =96
+        X: =252
+        Y: =870
+        ZIndex: =2
+
